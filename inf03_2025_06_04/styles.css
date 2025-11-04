@@ -1,0 +1,42 @@
+body {
+    background-color: #ffcc99;
+    font-family: garamond;
+    text-align: center;
+}
+
+.naglowkowy, .stopka {
+    background-color: darkgreen;
+    color: white;
+    padding: 30px;
+    font-size: 140%;
+}
+
+.nawigacyjny {
+    background-color: mediumseagreen;
+
+    padding: 20px;
+}
+
+.lewy {
+    background-color: #ffcc99;
+    width: 70%;
+    height: 500px;
+    float: left;
+}
+
+.prawy {
+    background-color: mediumseagreen;
+    width: 30%;
+    height: 500px;
+    text-align: left;
+    float: right;
+}
+
+u, a {
+    color: white;
+}
+
+table {
+    margin: auto;
+    border: 1px dashed DarkGreen;
+}
