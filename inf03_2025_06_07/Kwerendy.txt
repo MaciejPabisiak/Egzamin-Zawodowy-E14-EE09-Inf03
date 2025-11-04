@@ -1,4 +1,0 @@
-1. SELECT id_zadania, zadanie, data FROM zadania; 
-2. 
-3. DELETE FROM zadania WHERE id_zadania = 2; 
-4. 

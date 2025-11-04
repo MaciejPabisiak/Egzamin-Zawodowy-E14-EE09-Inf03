@@ -1,4 +1,0 @@
-1.SELECT nazwa, cena, opis FROM abonamenty;
-2.
-3.
-4.SELECT nazwa, opis FROM abonamenty WHERE opis LIKE "%zdrowie%" OR opis LIKE "%opieką%";
