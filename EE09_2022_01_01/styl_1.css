@@ -1,0 +1,51 @@
+.Baner{
+    background-color: DodgerBlue;
+    color: white;
+    height: 100%;
+    text-align: center;
+    padding: 5px ;
+} 
+
+.Glowny{
+    background-color: LightBlue;
+    color: black;
+    padding: 100px ;
+}
+
+.Lewy{
+    background-color: DodgerBlue;
+    color: white;
+    float: left;
+    width: 20%;
+    height: 220px;
+}
+
+img{
+    background-color: DodgerBlue;
+    text-align: center;
+    width: 40%;
+    height: 220px;
+    float: right;
+}
+
+.prawy {
+    background-color: DodgerBlue;
+    float: right;
+    text-align: center;
+    width: 40%;
+    height: 220px;
+}
+
+body {
+    font-family: 'Georgia';
+}
+
+a {
+	    border: 1px dashed dimgray;
+	    background: gold;
+	    color: darkred;
+	    padding: 10px;
+}
+p {
+    color: white;
+}

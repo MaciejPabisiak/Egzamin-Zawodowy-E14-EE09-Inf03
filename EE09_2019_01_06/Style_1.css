@@ -1,0 +1,36 @@
+body{
+    selektor { font-family:Verdana};
+  }
+  
+  p {
+    color: white;
+    background-color:#4682B4 ;
+    padding: 20px;
+    font-size:120%;
+    text-align: center;
+  }
+  .lewy {
+    background-color:#40E0D0;
+    width:40%;
+    height:500px;
+    float: left;
+  }
+  img {
+     padding : 5px;
+     margin: 10px;
+     border: 1px solid#000080;
+  }
+  .prawy{
+    float:right;
+    background-color:#40E0D0 ;
+    width:60%;
+    height:500px;
+  }
+
+  .baner {
+    background-color:#4682B4 ;
+    color: white;
+    text-align: center;
+    padding: 20px;
+    font-size:120%;
+  }

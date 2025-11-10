@@ -1,0 +1,60 @@
+#Stopka_Lewa {
+    background: #005B4f;
+    color: white;
+    text-align: center;
+    width: 60%;
+    height: 40px;
+    float: left;
+}
+
+#Stopka_Prawa {
+    background: #005B4f;
+    color: white;
+    text-align: center;
+    width: 40%;
+    height: 40px;
+    float: right;
+}
+
+#Prawy {
+    background: #E1E2E1
+    color(rgb white);
+    text-align: left;
+    width: 80%;
+    height: 80%;
+    float: right;
+}
+
+h2 {
+    text-align: center;
+    background: #00897B;
+}
+
+a {
+    color:white;
+    width: 50px;
+}
+
+body {
+    font-family: 'Georgia';
+}
+
+#Tlo {
+    background: #E1E2E1;
+    padding: 20px;
+}
+
+#Tlo1 {
+    color: white;
+    background: #005B4F;
+    text-align: center;
+    font-size: 50%;
+    height: 20px;
+}
+
+img {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    background-size: cover;
+}

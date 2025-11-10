@@ -1,0 +1,57 @@
+.baner1 {
+    background-color: #3CB371;
+    color: white;
+    height: 100px;
+    width: 40%;
+    float: left;
+}
+
+.baner2 {
+	background: #3CB371;
+	color: white;
+	height: 100px;
+	width: 40%;
+    float: left;
+}
+
+.baner3 {
+    background-color: #3CB371;
+    height: 100px;
+    width: 20%;
+}
+
+.dni{
+    background-color: #FFDAB9;
+    height: 90px;
+    width: 170px;
+    margin: 5px;
+    border: 1px solid #3CB371;
+    color: black;
+    float: inline-start;
+}
+
+.php {
+    background-color: #ffffff;
+    float: left;
+}
+
+.stopka{
+    background-color: #3CB371;
+    color: white;
+}
+
+body {
+    font-family: 'Georgia';
+}
+
+form {
+    padding: 30px;
+}
+
+h6 {
+    text-align: right;
+}
+
+h3 {
+    text-align: right;
+}

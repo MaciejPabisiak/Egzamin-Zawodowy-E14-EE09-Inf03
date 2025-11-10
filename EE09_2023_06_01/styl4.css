@@ -1,0 +1,46 @@
+.baner {
+    background: SaddleBrown;
+    text-align: center;
+    color: rgb(255, 255, 255);
+    height: 50px;
+}
+
+.lewy {
+    background: Tan;
+    height: 500px;
+    width: 40%;
+    float: left;
+}
+
+form {
+    background: SaddleBrown;
+    color: white;
+    padding: 10px 30px 10px 50px;
+}
+
+.prawy1 {
+    background: Tan;
+    width: 60%;
+    height: 250px;
+    float: right;
+}
+
+input{
+margin: 5px;
+}
+
+.prawy2{
+    background: Tan;
+    width: 60%;
+    height: 250px;
+    float: right;
+}
+
+.stopka {
+    background: SaddleBrown;
+    color: rgb(255, 255, 255);
+}
+
+body {
+    font-family: 'Garamond';
+}
