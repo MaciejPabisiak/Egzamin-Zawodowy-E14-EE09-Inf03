@@ -1,0 +1,41 @@
+* {
+    font-family: century gothic, Arial;
+}
+
+body {
+    background-color: blanchedalmond;
+}
+
+.naglowkowy, .stopka {
+    background-color: sienna;
+    color: white;
+    padding: 5px;
+    font-size: 130%;
+    text-align: center;
+}
+
+.lewy {
+    background-color: navajowhite;
+    margin-top: 10px;
+    width: 35%;
+    height: 400px;
+    float: left;
+}
+
+.nawigacyjny {
+    height: 50%;
+    height: 50px;
+}
+
+.prawy {
+    width: 50%;
+    height: 420px;
+}
+
+img {
+    width: 10%;
+}
+
+a {
+    color: sienna;
+}
