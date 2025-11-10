@@ -1,0 +1,55 @@
+body {
+    font-family: Verdana;
+}
+
+.baner, .stopka {
+    background-color: rgb(205, 92, 92);
+    color:white;
+    align-content: center;
+    text-align: center;
+    padding: 5px;
+}
+
+.dane {
+    background-color: rgb(210, 180, 140);
+    padding: 3px;
+}
+
+.lewy, .prawy {
+    background-color: rgb(255, 239, 213);
+    height: 500px ;
+    width: 25%;
+}
+
+.srodkowy {
+    background-color: rgb(255, 239, 213);
+    height: 500px ;
+    width: 50%;
+    float: center;
+    text-align: center;
+}
+
+h2 {
+    align-content: center;
+    text-align: center;
+}
+.prawy {
+    float: right;
+}
+
+.lewy {
+    float: left;
+}
+
+.srodkowy {
+    float: left;
+}
+
+img {
+    padding: 7px;
+    height: 100px ;
+}
+
+ img:hover {
+    border: solid rgb(255, 218, 185);
+}

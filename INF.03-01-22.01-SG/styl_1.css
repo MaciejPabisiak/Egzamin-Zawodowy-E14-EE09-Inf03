@@ -1,0 +1,27 @@
+body{
+ background: #F6E5DC ;
+    font-family:Verdana ;
+}
+
+header{
+    background: #2F180C;
+    color:khaki;
+    height: 60px;
+    text-align: center;
+}
+
+.top{
+    display: flex;
+}
+.lewy{
+    width: 60%;
+}
+
+.prawy {
+    font-size: 150%;
+    padding: 70px;
+}
+
+.formularz {
+    background: #D0B6A8;
+}

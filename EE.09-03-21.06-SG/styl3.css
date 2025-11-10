@@ -1,0 +1,38 @@
+body {
+    font-family: Verdana;
+}
+
+.baner_lewy {
+    background-color: #29434E;
+    color: white;
+    height: 70px ;
+    width: 70%;
+    text-align: center;
+    float: left;
+}
+ 
+.baner_prawy {
+    background-color: #29434E;
+    color: white;
+    height: 70px ;
+    width: 30%;
+    float: right;
+}
+
+.lista_1, .lista_2 {
+    background-color: #B0BEC5;
+    height: 320px ;
+    overflow-x: scroll;
+    overflow-y: scroll;
+    width: auto;
+}
+
+.stopka {
+    background-color: #29434E;
+    color: white;
+}
+
+h3 {
+    background-color: #566E79;
+    color: white;
+}

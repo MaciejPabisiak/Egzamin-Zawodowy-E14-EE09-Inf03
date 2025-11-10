@@ -1,0 +1,41 @@
+body {
+    font-family: Helvetica;
+}
+
+.lewy_panel {
+    background-color: Navy;
+    color: white;
+    height: 700px;
+    width: 25%;
+    float: left;
+}
+
+.prawy_panel_pierwszy {
+    background-color: RoyalBlue;
+    height: 100px;
+    width: 75%;
+    float: right;
+    text-align: center;
+}
+
+.prawy_panel_drugi {
+    background-color: SteelBlue;
+    height: 300px;
+    width: 75%;
+    float: right;
+}
+
+.prawy_panel_trzeci {
+    background-color: RoyalBlue;
+    height: 300px;
+    width: 75%;
+    float: right;
+    text-align: center;
+}
+
+.stopka {
+    background: SteelBlue;
+    text-align: center;
+    align-content: center;
+    padding: 20px;
+}

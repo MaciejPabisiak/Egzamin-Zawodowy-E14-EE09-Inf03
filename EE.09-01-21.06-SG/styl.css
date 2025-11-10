@@ -1,0 +1,40 @@
+body {
+    font-family: 'Tahoma';
+    background: Crimson;
+    text-transform: capitalize;
+}
+
+#mecz {
+    width: 200px;
+    float: left;
+    color: white;  
+}
+
+
+#Baner{
+    background: Crimson;
+    text-align: center;
+    color: rgb(255, 255, 255);
+}
+
+#Lewy {
+    width: 70%;
+    height: 230px;
+    float: left;
+    background: white;
+}
+
+#Prawy {
+    width: 30%;
+    height: 230px;
+    text-align: right;
+    float: left;
+    background: white;
+}
+
+#Glowny{
+    background: white;
+    text-align: center;
+    color: BLACK;
+    height: 50px;
+}

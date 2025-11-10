@@ -1,0 +1,40 @@
+.baner {
+    color: white;
+    align-content: center;
+    text-align: center;
+}
+
+.lewy {
+    background-color: WhiteSmoke;
+    height: 150px ;
+    width: 30%;
+    align-content: center;
+    text-align: center;
+}
+
+.prawy {
+    background-color: WhiteSmoke;
+    height: 150px ;
+    width: 70%;
+}
+
+.glowny {
+    font-family: Verdana;
+    background-color: SeaGreen;
+    text-align: center;
+    align-content: center;
+    color: white;
+}
+
+.liga {
+    align-content: center;
+    text-align: center;
+    color: white;
+    border: 1px, solid, white;
+}
+
+body {
+    font-family: Verdana;
+    background-color: SeaGreen;
+}
+
