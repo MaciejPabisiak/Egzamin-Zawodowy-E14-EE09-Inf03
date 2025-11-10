@@ -1,0 +1,38 @@
+*{
+    font-family: 'Cambria';
+}
+
+.baner {
+    background-color: #C2185B;
+    color: white;
+    padding: 15px;
+}
+
+.glowny {
+    background-image: url(tulipany.jpg);
+    width: 500px;
+}
+.stopka-1, .stopka-2, .stopka-3, .stopka-4 {
+    background-color: #C2185B;
+    color: white;
+    height: 25%;
+    width: 240px;
+}
+.blok-1, .blok-2, .blok-3 {
+    background-color: #FCE4EC;
+    height: 25%;
+    width: 300px;
+    margin: 16px;
+}
+video {
+    width: 100%;
+    height: 100%;
+}
+.button {
+    background-color: #c2185b;
+    color: white;
+}
+
+h1 {
+    text-align: center;
+}
