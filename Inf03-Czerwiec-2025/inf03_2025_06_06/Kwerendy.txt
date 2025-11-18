@@ -1,0 +1,5 @@
+1. SELECT `id`,`tytul` FROM ksiazka WHERE gatunek='liryka'; 
+2.
+3.
+4.
+5. SELECT `tytul` FROM ksiazka WHERE ID=4; 

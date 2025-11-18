@@ -1,0 +1,5 @@
+1.
+2. SELECT `cena` FROM miejsca WHERE nazwa='malbork'; 
+3. SELECT `nazwa`,`cena`,`link_obraz` FROM miejsca WHERE `link_obraz` LIKE '0%'; 
+4.
+5.

@@ -1,0 +1,4 @@
+1. 
+2. SELECT `producent`,`model`,`sezon`,`cena` FROM `opony` WHERE nr_kat=9; 
+3.
+4.

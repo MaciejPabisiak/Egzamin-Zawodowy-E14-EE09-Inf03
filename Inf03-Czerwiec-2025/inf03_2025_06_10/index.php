@@ -21,12 +21,16 @@
         <div class="prawy">
             <h2>Zapisy na kurs<h2>
                 Imię:
+                <label></label>
                 <br>
                 Nadwisko:
+                <label></label>
                 <br>
                 Wiek:
+                <label></label>
                 <br>
                 Rodzaj Kursu:
+                <label></label>
                 <br>
                 <button>Dodaj Dane</button>
         </div>

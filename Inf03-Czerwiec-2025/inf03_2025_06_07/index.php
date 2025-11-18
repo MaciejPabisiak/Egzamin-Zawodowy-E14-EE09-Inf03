@@ -17,14 +17,19 @@
     <div class="glowny">
         <div class="boczny">
             <h3>Twój cel wyprawy</h3>
+            <label></label>
             <br>
             Miejsce wycieczki
+            <lavel></label>
             <br>
             Ile dorosłych?
+            <label></label>
             <br>
             Ile dzieci?
+            <label></label>
             <br>
             Termin
+            <label></label>
             <br>
             <button>Symulacja ceny</button>
             <h4>Koszt wycieczki</h4>

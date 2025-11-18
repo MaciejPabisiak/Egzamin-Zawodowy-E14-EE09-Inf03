@@ -12,13 +12,13 @@
     </div>
     <div class="lewy">
         <h3>Top 5 gier w tym miesiącu</h3>
-        <ol>
+        <ul>
             <li>Mag</li>
             <li>Księżniczka Presji</li>
             <li>Zamczysko</li>
             <li>Kalipso</li>
             <li>Wyprawa na Księżyc</li>
-        </ol>
+        </ul>
 
         <h3>Nasz sklep</h3>
         <a href="http://sklep.gry.pl">Tu kupisz gry</a>
@@ -27,7 +27,25 @@
 
     </div>
     <div class="prawy">
-        <h3>Dodaj nową grę</h3>
+        <h3>Dodaj nową grę:</h3>
+        nazwa:
+        <br>
+        <input type="text">
+        <br>
+        opis:
+        <br>
+        <input type="text">
+        <br>
+        cena:
+        <br>
+        <input type="text">
+        <br>
+        zdjecie:    
+        <br>
+        <input type="text">
+        <br>
+        <br>
+        <button>Dodaj</button>
     </div>
     <div class="stopka">
         <h3>Stronę wykonał:</h3>

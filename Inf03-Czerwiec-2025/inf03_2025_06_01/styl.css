@@ -1,0 +1,26 @@
+* {
+    font-family: GARAMOND;
+    color: white;
+}
+
+.naglowkowy {
+    background-color: indigo;
+    text-align: center;
+    padding: 2PX;
+}
+
+.Lewy, .prawy {
+    background-color: indigo;
+    height: 600px;
+}
+
+.srodkowy {
+    background-color: black;
+    height: 600px;
+}
+
+.stopka {
+    background-color: indigo;
+    height: 150px;
+}
+

@@ -1,0 +1,4 @@
+1. SELECT `nazwa`,`dlugosc`,`szerokosc`FROM smok WHERE pochodzenie='POLSKA'; 
+2.
+3.
+4.
